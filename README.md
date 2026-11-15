@@ -1,14 +1,14 @@
-## Civet v1.0.93
+## Civet v1.0.94
 
 > **Civet** is a modern, lightweight, hardware-accelerated streaming client purpose-built for Android TV, Google TV, and Fire TV devices.
 
 ---
 
 ### Quick Download
-* **Direct APK**: [civet.apk](https://github.com/10xvick/civettv-releases/releases/download/v1.0.93/civet.apk) (2.34 MB)
-* **Metadata**: [version.json](https://github.com/10xvick/civettv-releases/releases/download/v1.0.93/version.json)
-* **Contract Hash**: `e3ed41a1`
-* **Version Code**: `93`
+* **Direct APK**: [civet.apk](https://github.com/10xvick/civettv-releases/releases/download/v1.0.94/civet.apk) (2.34 MB)
+* **Metadata**: [version.json](https://github.com/10xvick/civettv-releases/releases/download/v1.0.94/version.json)
+* **Contract Hash**: `385e74dd`
+* **Version Code**: `94`
 
 ---
 
@@ -50,7 +50,7 @@ Civet TV is packaged as a universal architecture-agnostic APK. All video and aud
 2. In your TV's Settings, go to **Security & Restrictions** (or **Developer Options**) > **Install Unknown Apps**, and grant permission to **Downloader**.
 3. Open **Downloader** and enter the direct APK URL:
    ```
-   https://github.com/10xvick/civettv-releases/releases/download/v1.0.93/civet.apk
+   https://github.com/10xvick/civettv-releases/releases/download/v1.0.94/civet.apk
    ```
 4. Once downloaded, select **Install**.
 
@@ -65,8 +65,8 @@ adb install -r civet.apk
 
 ### Integrity & Checksums
 * **Filename**: `civet.apk`
-* **File Size**: `2457412 bytes` (2.34 MiB)
+* **File Size**: `2457760 bytes` (2.34 MiB)
 * **SHA-256 Checksum**:
   ```
-  2a812679c1539f259a7a5180c51714f704007d446b10b5ac0b7ff35dc790ed1f
+  dc8471518cb1035dc7c0f57c40f26c41a78ae2aa897343d33f637b37a7a6b23d
   ```
